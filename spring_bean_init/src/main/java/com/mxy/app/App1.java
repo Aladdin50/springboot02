@@ -13,5 +13,6 @@ public class App1 {
         ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("applicationContext1.xml");
         Object cat = ctx.getBean("cat");
         System.out.println(cat);
+        System.out.println("hello git!");
     }
 }
