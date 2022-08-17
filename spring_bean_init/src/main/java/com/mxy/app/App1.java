@@ -15,5 +15,6 @@ public class App1 {
         System.out.println(cat);
         System.out.println("hello git!");
         System.out.println("master commit");
+        System.out.println("hotfix commit");
     }
 }
