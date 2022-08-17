@@ -17,5 +17,6 @@ public class App1 {
         System.out.println("master commit");
         System.out.println("hotfix commit");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
