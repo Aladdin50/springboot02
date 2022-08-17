@@ -14,5 +14,6 @@ public class App1 {
         Object cat = ctx.getBean("cat");
         System.out.println(cat);
         System.out.println("hello git!");
+        System.out.println("hotfix commit");
     }
 }
